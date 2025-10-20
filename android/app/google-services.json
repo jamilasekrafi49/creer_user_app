@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "829549946241",
+    "project_id": "creeruserapp",
+    "storage_bucket": "creeruserapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829549946241:android:46988132b14f8fb3c4f480",
+        "android_client_info": {
+          "package_name": "com.example.creer_user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApUq5LrVuzI3usiDWt1GDeysmaAsuGsdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
